@@ -1,3 +1,5 @@
 venv/*
 .idea/*
 personal_portfolio/__pycache__/*
+hello_world/__pycache__/*
+hello_world/migrations/__pycache__/*
